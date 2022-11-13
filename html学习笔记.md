@@ -11,7 +11,7 @@
 标签：由尖括号包围的关键词。  
 * 头部标签`<head>`
 在头部标签中使用`<titile>`标签来作为文档的标题。  
-![效果图](http://m.qpic.cn/psc?/V51hZVCx0hGCfS1fGM9C4Ll60G0KrQiy/ruAMsa53pVQWN7FLK88i5oIQx0Dno9VowLlgtaeZ*Ab83WWiese3arTJb5GdJ2ukibuWLbFQ5wnl4If.wuZ09e6.p8HRB5AtEVbHURw3pQc!/b&bo=lAL7AAAAAAADB08!&rf=viewer_4)
+![效果图]("C:\Users\lenovo\Pictures\Screenshots\屏幕截图(32).png")
 * 标题`<h1></h1>`  
 最多有六级标题。  
 * 段落`<p></p>`  
